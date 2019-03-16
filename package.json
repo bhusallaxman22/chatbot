@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "hey its my bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laxman bhusal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mime-db": "^1.38.0",
+    "node-uuid": "^1.4.8",
+    "oauth-sign": "^0.9.0",
+    "request": "^2.88.0",
+    "stringstream": "^1.0.0",
+    "tough-cookie": "^3.0.1",
+    "tunnel-agent": "^0.6.0",
+    "yarn": "^1.13.0"
+  }
+}
